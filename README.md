@@ -1,5 +1,5 @@
 ### Hi there, Mi nombre es Gustavo Cortes👋
-Esto es una prueba de como se va a ver mi readme
+
 
 ###¿Quién soy?
 
