@@ -3,10 +3,10 @@
 
 ###¿Quién soy?
 
-Soy un Programador Fullstack orientado al *Front-end*.
+Soy un Programador Web Fullstack con gran interés hacia el lado *Front-end*.
 
-Desde los 10 años que me ha gusta conocer sobre computación, en la pandemia me llamó mucho el mundo de la programación. Aprendí lo básico sobre
-Javascript, HTML y css. Mi mayor crecimiento como programador fue en el bootcamp de SoyHenry
+Desde los 10 años que me gusta conocer sobre computación, en la pandemia me llamó mucho el mundo de la programación. Aprendí lo básico sobre
+Javascript, HTML y css. Mi mayor crecimiento como programador fue en el bootcamp de SoyHenry. Actualmente tengo un brackground de Marketing el cual conseguí gracias a mi tiempo en la universidad.
 
 ###¿Qué hago?
 
