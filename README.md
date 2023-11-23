@@ -1,4 +1,4 @@
-### Hi there, Mi nombre es Gustavo Cortes👋
+### Hola a todos!, Mi nombre es Gustavo Cortes👋
 
 
 ###¿Quién soy?
