@@ -35,9 +35,11 @@ Las principales tecnologías que manejo son:
   *Next.js
   *Tailwind
   *TypeScript
+  *Vue.js
 
  Ademas de mis conocimientos en tecnologías estoy continuamente en formación.
  Poseo un background de Técnicas de Marketing y diseño UX/UI.
+ 
 ### Contáctame: 
 
 gustavocortes934@gmail.com
