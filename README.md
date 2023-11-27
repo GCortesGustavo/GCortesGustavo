@@ -12,7 +12,8 @@ Javascript, HTML y css. Mi mayor crecimiento como programador fue en el bootcamp
 ###¿Qué hago?
 
 Me dedico a tomar distintos caminos para poder avanzar en mi trayectoria como programador, a su vez que hago proyectos de manera individual y con
-mis compañeros para obtener mas experiencias. *Me encanta poder brindar soluciones reales a las personas que me rodean*
+mis compañeros para obtener mas experiencias. Actualmente me encuentro trabajando en una empresa constructora en el sector de recursos humanos.
+*Me encanta poder brindar soluciones reales a las personas que me rodean*
 
 
 ###¿Hacia dónde me dirijo?
