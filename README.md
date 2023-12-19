@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Cortés!</h1>
 <h3 align="center">A proactive frontend developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/GCortesGustavo/PortfolioV1)
+- 🔭 I’m currently working on [Portfolio]((https://github.com/GCortesGustavo/portfolio))
 
 - 🌱 I’m currently learning **Vue.js, UX/UI, Python**
 
