@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Cortés!</h1>
 <h3 align="center">A proactive frontend developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Pugstagram]((https://github.com/GCortesGustavo/Pugstagram)) and [50ProyectsMini]((https://github.com/GCortesGustavo/50ProjectsMini))
+- 🔭 I’m currently working on [Pugstagram](https://github.com/GCortesGustavo/Pugstagram) and [50ProyectsMini](https://github.com/GCortesGustavo/50ProjectsMini)
 
 - 🌱 I’m currently learning **Svelte, UX/UI, Javascript**
 
