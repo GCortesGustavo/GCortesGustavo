@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo Cortés!</h1>
 <h3 align="center">A proactive frontend developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Pugstagram](https://github.com/GCortesGustavo/Pugstagram) and [50ProyectsMini](https://github.com/GCortesGustavo/50ProjectsMini)
+- 🔭 I’m currently working on [E-Commerce Vue](https://github.com/GCortesGustavo/E-CommerceVue) and [50ProyectsMini](https://github.com/GCortesGustavo/50ProjectsMini)
 
 - 🌱 I’m currently learning **Svelte, UX/UI, Javascript**
 
-- 👯 I’m looking to collaborate on [Rofe Ferretería](https://github.com/ImanolBraccciale/PF-Ferreteria)
+- 👯 I’m looking to collaborate on [SomosJardinWeb] and [Rofe Ferretería](https://github.com/ImanolBraccciale/PF-Ferreteria)
 
-- 👨‍💻 All of my projects are available at (In process)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-gustavo-cortes.vercel.app)
 
-- 💬 Ask me about **Svelte, React, Javascript, SQL, Tailwind, Marketing**
+- 💬 Ask me about **Svelte, Vue, Firebase, Next, React, Javascript, SQL, Tailwind, Marketing**
 
 - 📫 How to reach me **gustavocortes934@gmail.com**
 
